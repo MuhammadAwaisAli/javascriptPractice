@@ -17,6 +17,4 @@ npm version 8
 # How to run the code 
 1. go the question folder and run nondmon command 
  for  example 
- question1
- cd question1/index
- nodemon index.js
+ nodemon .\Question_01\index.js
